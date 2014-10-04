@@ -16,6 +16,12 @@ int main()
 
     for(i=0;i<no;i++)
     scanf("%d",&a[i]);
+    
+    
+    int j=0;
+    
+    for(j=0;j<10000;j++)
+    j=j+1;
 
     x=0;y=0;
 
