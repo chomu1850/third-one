@@ -7,7 +7,14 @@ int main()
   scanf("%d",&test);
 
   unsigned long long total,sum;
-
+   
+   
+   int masti;
+   
+   int kjdsfhbkjds;
+   int dksgbfjkd;
+   
+   
   while(test--)
   {
     int a[100001]={0};
